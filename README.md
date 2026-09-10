@@ -2,9 +2,9 @@
 
 # VISNE
 
-### Indie Developer from Wales 🏴
+### Indie Game Developer from Wales 🏴
 
-Building dark little worlds, pixel projects, and things that probably should not exist after midnight.
+Focused mainly on **pixel games**, gameplay systems, worldbuilding, and dark fantasy projects.
 
 </div>
 
@@ -14,28 +14,15 @@ Building dark little worlds, pixel projects, and things that probably should not
 
 - Based in **Wales**
 - My previous account was closed, so I'm rebuilding everything from here
-- Interested in **indie games**, **pixel art**, **web development**, and **Minecraft modding**
+- Main focus: **indie game development**
+- I work mostly on **pixel games**, gameplay systems, level design, UI, quests, combat, and atmosphere
+- Web development exists in my stack, but it is **secondary**
 - Currently focused on **Forsaken**
 - Discord: **@vsne**
 
 ---
 
-## Languages
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js" height="48" alt="HTML, CSS and JavaScript" />
-
-</div>
-
-**Main languages I use:**
-- HTML
-- CSS
-- JavaScript
-
----
-
-## Pixel Game Development Stack
+## Main Game Development Stack
 
 <div align="left">
 
@@ -43,24 +30,27 @@ Building dark little worlds, pixel projects, and things that probably should not
 
 </div>
 
-**Game development tools / technologies I'm using or learning:**
-- **Godot** — 2D / pixel game development
-- **GDScript** — gameplay systems and scripting
-- **Unity** — game engine
-- **C#** — Unity scripting
-- **Python** — small tools and automation
-- **Aseprite** — pixel art, sprites and animations
-- **Tiled** — tilemaps and level layout
-- **Blender** — optional 3D / reference work
-- **Git & GitHub** — version control
-- **VS Code** — coding and project work
+### Main tools / technologies
 
-### Things I work with in pixel games
+- **Godot** — main 2D / pixel game development
+- **GDScript** — gameplay scripting
+- **Unity** — secondary game engine
+- **C#** — Unity scripting
+- **Python** — tools, automation, prototypes
+- **Aseprite** — pixel art and sprite animation
+- **Tiled** — tilemaps and level design
+- **Git & GitHub** — version control
+- **VS Code** — development
+- **Blender** — occasional reference / 3D work
+
+---
+
+## What I Work On
 
 ```text
 Player movement
 Combat systems
-Inventory
+Inventory systems
 Quest systems
 NPC dialogue
 Enemy AI
@@ -74,7 +64,24 @@ Audio / ambience
 UI / HUD
 Menus
 Level design
+Worldbuilding
 ```
+
+---
+
+## Secondary Skills
+
+Web development is not my main focus, but I use it when needed for project pages, game websites, and small tools.
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" height="42" alt="HTML, CSS and JavaScript" />
+
+</div>
+
+- HTML
+- CSS
+- JavaScript
 
 ---
 
@@ -91,22 +98,25 @@ Level design
 
 ```text
 > FORSAKEN
-> World building...
+> Core gameplay...
 > Quests loading...
+> Castle areas in progress...
 > Legendary ring location: UNKNOWN
 > Status: ACTIVE
 ```
 
 ---
 
-## Current Game Dev Goals
+## Current Goals
 
 - Build a complete playable **Forsaken** prototype
-- Improve pixel art and animation
+- Improve pixel art and sprite animation
 - Create smoother combat and movement
-- Build quest and inventory systems
-- Design darker environments and castle areas
-- Add original sound effects and ambience
+- Expand quest and inventory systems
+- Add enemies and boss fights
+- Design darker castle and ruin environments
+- Improve UI / HUD
+- Add original ambience and sound effects
 - Keep expanding the Forsaken universe
 
 ---
