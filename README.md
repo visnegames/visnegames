@@ -20,7 +20,7 @@ Building dark little worlds, pixel projects, and things that probably should not
 
 ---
 
-## Languages & Tools
+## Languages
 
 <div align="left">
 
@@ -28,10 +28,53 @@ Building dark little worlds, pixel projects, and things that probably should not
 
 </div>
 
-**Main languages:**
+**Main languages I use:**
 - HTML
 - CSS
 - JavaScript
+
+---
+
+## Pixel Game Development Stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=godot,unity,cs,python,git,github,vscode,blender" height="48" alt="Godot, Unity, C#, Python, Git, GitHub, VS Code and Blender" />
+
+</div>
+
+**Game development tools / technologies I'm using or learning:**
+- **Godot** — 2D / pixel game development
+- **GDScript** — gameplay systems and scripting
+- **Unity** — game engine
+- **C#** — Unity scripting
+- **Python** — small tools and automation
+- **Aseprite** — pixel art, sprites and animations
+- **Tiled** — tilemaps and level layout
+- **Blender** — optional 3D / reference work
+- **Git & GitHub** — version control
+- **VS Code** — coding and project work
+
+### Things I work with in pixel games
+
+```text
+Player movement
+Combat systems
+Inventory
+Quest systems
+NPC dialogue
+Enemy AI
+Boss fights
+Tilemaps
+Sprite animation
+Pixel VFX
+Lighting
+Save systems
+Audio / ambience
+UI / HUD
+Menus
+Level design
+```
 
 ---
 
@@ -53,6 +96,18 @@ Building dark little worlds, pixel projects, and things that probably should not
 > Legendary ring location: UNKNOWN
 > Status: ACTIVE
 ```
+
+---
+
+## Current Game Dev Goals
+
+- Build a complete playable **Forsaken** prototype
+- Improve pixel art and animation
+- Create smoother combat and movement
+- Build quest and inventory systems
+- Design darker environments and castle areas
+- Add original sound effects and ambience
+- Keep expanding the Forsaken universe
 
 ---
 
